@@ -1,0 +1,11 @@
+karma start karmaconf.js
+
+python -m SimpleHTTPServer 8000
+
+cd /Users/c07nw90pg1hw/shopping-cart-transfer 
+
+sudo npm install nodeunit
+
+wget --no-check-certificate -m -k -K -E https://www.phillipsdigestive.com/
+
+grunt build --brand=drscholls
